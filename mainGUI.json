@@ -2,4 +2,5 @@
     "city": "Sochi",
     "temp": 25,
     "isRain": true
+    "wind": 5
 }
