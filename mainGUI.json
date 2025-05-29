@@ -1,4 +1,5 @@
 {
     "city": "Sochi",
-    "temp": 25
+    "temp": 25,
+    "isRain": true
 }
